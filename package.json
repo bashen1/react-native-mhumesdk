@@ -1,0 +1,24 @@
+{
+  "name": "react-native-mhumesdk",
+  "version": "1.0.0",
+  "description": "头条应用管理中心分包SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "humesdk"
+  ],
+  "repository": "https://github.com/bashen1/react-native-mhumesdk",
+  "author": "bashen1 <maochunjie@gmail.com> (https://github.com/bashen1)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bashen1/react-native-mhumesdk/issues"
+  },
+  "homepage": "https://github.com/bashen1/react-native-mhumesdk#readme",
+  "peerDependencies": {
+    "react-native": ">=0.60"
+  }
+}
